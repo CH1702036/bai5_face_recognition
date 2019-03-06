@@ -1,0 +1,5 @@
+﻿kết quả nhận dạng:
+hình 1: 3/7
+hình 2: 0/1 
+hình 3: 5/7 
+hình 4: 0/3
